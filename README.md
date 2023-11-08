@@ -81,7 +81,7 @@ pip install lizard
 lizard ./src --csv > lizard.csv
 ```
 ## CSV 출력 결과 예제
-![image](https://github.com/DongJoonHan/20231106/assets/8405564/9f543137-e757-4e5e-96d7-dbd606005662)
+![image](https://github.com/DongJoonHan/20231108/assets/8405564/7c87224a-9d83-49a6-ae9c-6fd73117af53)
 
 
 
